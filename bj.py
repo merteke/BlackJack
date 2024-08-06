@@ -22,8 +22,8 @@ def win_condition(player_score,computer_score):
         return True
         
     
-    elif player_score!=21 and computer_score==21:
+    # elif player_score!=21 and computer_score==21:
         
-        return True
+    #     return True
         
     return False
